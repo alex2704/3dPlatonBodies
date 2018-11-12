@@ -1,0 +1,14 @@
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\2 аттестация\PlatonBodiesTask\PlatonBodiesTask\bin\Debug\PlatonBodiesTask.exe.config
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\2 аттестация\PlatonBodiesTask\PlatonBodiesTask\bin\Debug\PlatonBodiesTask.exe
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\2 аттестация\PlatonBodiesTask\PlatonBodiesTask\bin\Debug\PlatonBodiesTask.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\2 аттестация\PlatonBodiesTask\PlatonBodiesTask\obj\Debug\PlatonBodiesTask.csprojAssemblyReference.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\2 аттестация\PlatonBodiesTask\PlatonBodiesTask\obj\Debug\PlatonBodiesTask.FormTools.resources
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\2 аттестация\PlatonBodiesTask\PlatonBodiesTask\obj\Debug\PlatonBodiesTask.Properties.Resources.resources
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\2 аттестация\PlatonBodiesTask\PlatonBodiesTask\obj\Debug\PlatonBodiesTask.csproj.GenerateResource.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\2 аттестация\PlatonBodiesTask\PlatonBodiesTask\obj\Debug\PlatonBodiesTask.csproj.CoreCompileInputs.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\2 аттестация\PlatonBodiesTask\PlatonBodiesTask\obj\Debug\PlatonBodiesTask.exe
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\2 аттестация\PlatonBodiesTask\PlatonBodiesTask\obj\Debug\PlatonBodiesTask.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\2 аттестация\PlatonBodiesTask\PlatonBodiesTask\bin\Debug\ClassLibrary.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\2 аттестация\PlatonBodiesTask\PlatonBodiesTask\bin\Debug\ClassLibrary.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\2 аттестация\PlatonBodiesTask\PlatonBodiesTask\obj\Debug\PlatonBodiesTask.FormMain.resources
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\Компьютерная графика\2 аттестация\PlatonBodiesTask\PlatonBodiesTask\obj\Debug\PlatonBodiesTask.csproj.CopyComplete
